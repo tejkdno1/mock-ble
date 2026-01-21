@@ -1,0 +1,378 @@
+[
+  {
+    "address": "5579E194-A20F-384E-F3A6-9156D4C05AD9",
+    "name": "Bose Color II SoundLink",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:32:55.000954",
+    "timesSeen": 11
+  },
+  {
+    "address": "B8E60867-7DC2-7D85-48A1-A849D17C530C",
+    "name": "Teja\u2019s Keys",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:33.463535",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 4
+  },
+  {
+    "address": "EF2052D2-4615-1A4B-BC6B-DE9C0374B127",
+    "name": "Teja\u2019s Xbox",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:36.882293",
+    "timesSeen": 5
+  },
+  {
+    "address": "2A190881-5387-4A95-302D-AA6EEE204595",
+    "name": "Tejkdno1",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:45.941552",
+    "timesSeen": 4
+  },
+  {
+    "address": "C44EA9E7-83FC-69E8-1416-300CCE9014C4",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:04.061496",
+    "timesSeen": 7
+  },
+  {
+    "address": "3C2EFBC1-610E-FF24-341B-DC52042F81C8",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 20
+  },
+  {
+    "address": "1733FB7D-EDFA-9291-1FD8-D3DA2612A4BD",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:30:39.078590",
+    "timesSeen": 4
+  },
+  {
+    "address": "E6555679-3AC7-BD71-EB77-1C6AF34FBA10",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:45.941552",
+    "timesSeen": 8
+  },
+  {
+    "address": "FB828712-24E3-1833-A771-019FFC078B3C",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 19
+  },
+  {
+    "address": "234187EA-6421-2493-FB9E-E15B175E788E",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:04.061496",
+    "timesSeen": 20
+  },
+  {
+    "address": "FDAE4E69-AFF8-17BA-502F-C3AD90665C06",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:30:48.134584",
+    "timesSeen": 5
+  },
+  {
+    "address": "BC6F3850-5615-1B83-EA5D-43D7741A30AD",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:31:06.270777",
+    "timesSeen": 3
+  },
+  {
+    "address": "4FE8B9F1-05C0-37AC-F0DE-5EE9D7ED8FE2",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:30:48.134584",
+    "timesSeen": 5
+  },
+  {
+    "address": "8CB246E2-C4D7-FA07-6EC4-122EC37808A5",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:30:11.882246",
+    "timesSeen": 1
+  },
+  {
+    "address": "EAECA218-50A8-3BB8-A41E-1E4C11CE5CE2",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 6
+  },
+  {
+    "address": "076AD176-753C-2533-338E-5E4CB2ADEAB2",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:45.941552",
+    "timesSeen": 4
+  },
+  {
+    "address": "0D2216E5-47EC-685C-C391-2B9DA08A92BE",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:30:57.202606",
+    "timesSeen": 6
+  },
+  {
+    "address": "4E394BBD-428F-8BA2-C2D3-CF14DA20162D",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:55.000954",
+    "timesSeen": 4
+  },
+  {
+    "address": "BD882CA2-E535-0795-A1D0-C6648D53A30D",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:32:36.882293",
+    "timesSeen": 7
+  },
+  {
+    "address": "BCD923A5-2960-EBCA-75B7-1E95D7162F7D",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:11.882246",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 21
+  },
+  {
+    "address": "FCBF025B-201D-7151-D666-57DE0439D70E",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:32:55.000954",
+    "timesSeen": 6
+  },
+  {
+    "address": "F5936042-356C-79F9-9F9B-63E341F9B08B",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:33:04.061496",
+    "timesSeen": 4
+  },
+  {
+    "address": "60341A1E-7E68-AEAF-BDA8-013DA6480777",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:33:04.061496",
+    "timesSeen": 10
+  },
+  {
+    "address": "2F85977D-C3BC-541D-5AFA-A78D0E51E69C",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 18
+  },
+  {
+    "address": "1248760C-8124-3AEE-6E21-15927058687C",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:30:20.947024",
+    "timesSeen": 1
+  },
+  {
+    "address": "A9231E50-BA85-29EF-25D4-604E6CA5E2D1",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:31:51.584466",
+    "timesSeen": 5
+  },
+  {
+    "address": "401A2C4C-B315-1262-428D-3A3E10C5ED19",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:20.947024",
+    "lastSeen": "2026-01-21T09:32:55.000954",
+    "timesSeen": 8
+  },
+  {
+    "address": "54611966-8081-A016-E257-346C57EB15F7",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:30.016446",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 19
+  },
+  {
+    "address": "0A709FE6-413C-211A-9E51-A5669313FE15",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:30.016446",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 14
+  },
+  {
+    "address": "018D85D3-C875-60E8-36F1-DED348352311",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:39.078590",
+    "lastSeen": "2026-01-21T09:31:51.584466",
+    "timesSeen": 3
+  },
+  {
+    "address": "E7101F97-5149-DDD3-E919-06C4574BABDB",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:39.078590",
+    "lastSeen": "2026-01-21T09:31:42.524031",
+    "timesSeen": 6
+  },
+  {
+    "address": "DA48E260-4025-97B6-F472-7AA3B164A0B8",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:48.134584",
+    "lastSeen": "2026-01-21T09:30:48.134584",
+    "timesSeen": 1
+  },
+  {
+    "address": "62602F27-E942-0C40-E7DF-27138FD822CF",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:48.134584",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 17
+  },
+  {
+    "address": "2C292398-18C0-D5FF-CC7E-AF12F200FC85",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:48.134584",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 17
+  },
+  {
+    "address": "35AE47FC-223E-6F82-ABE8-908E154BCCF3",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:48.134584",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 17
+  },
+  {
+    "address": "D5546055-9038-5A15-EEA4-FEB07E651E39",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:48.134584",
+    "lastSeen": "2026-01-21T09:30:48.134584",
+    "timesSeen": 1
+  },
+  {
+    "address": "98AFC80D-2F53-FBD3-EC58-7D3F33240F33",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:57.202606",
+    "lastSeen": "2026-01-21T09:30:57.202606",
+    "timesSeen": 1
+  },
+  {
+    "address": "658414D6-A635-8CC7-BAAF-452BE74EB3FF",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:30:57.202606",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 15
+  },
+  {
+    "address": "A9280607-7D8A-BF5D-2FC3-83EC155BA2A8",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:06.270777",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 14
+  },
+  {
+    "address": "9E9EB288-84BC-82F6-D06E-D8FAE0C0AFF9",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:15.337053",
+    "lastSeen": "2026-01-21T09:32:55.000954",
+    "timesSeen": 4
+  },
+  {
+    "address": "CDFA1E36-6184-8256-D532-0626A1C335E1",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:42.524031",
+    "lastSeen": "2026-01-21T09:32:36.882293",
+    "timesSeen": 2
+  },
+  {
+    "address": "FA51CF73-15FA-DC5A-577F-C31FC85D6F9C",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:42.524031",
+    "lastSeen": "2026-01-21T09:31:51.584466",
+    "timesSeen": 2
+  },
+  {
+    "address": "B301D83D-0BB2-F736-549F-9A75B43EDA17",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:51.584466",
+    "lastSeen": "2026-01-21T09:32:36.882293",
+    "timesSeen": 5
+  },
+  {
+    "address": "9FFF91A0-87E8-6E4B-F954-73F5C38E864F",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:31:51.584466",
+    "lastSeen": "2026-01-21T09:32:36.882293",
+    "timesSeen": 5
+  },
+  {
+    "address": "8A4418F3-AE2C-8FDD-3F3E-123DA4CBEC46",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:32:00.643887",
+    "lastSeen": "2026-01-21T09:33:04.061496",
+    "timesSeen": 5
+  },
+  {
+    "address": "28CE1E96-14E2-6775-3813-C3628483D76A",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:32:09.704916",
+    "lastSeen": "2026-01-21T09:32:09.704916",
+    "timesSeen": 1
+  },
+  {
+    "address": "788C6BD3-67EB-EDE3-5CC4-AE6F7C2F0183",
+    "name": "Unknown",
+    "rssi": null,
+    "firstSeen": "2026-01-21T09:32:55.000954",
+    "lastSeen": "2026-01-21T09:33:13.141025",
+    "timesSeen": 3
+  }
+]
